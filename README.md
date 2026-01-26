@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mohammad
 
-<!--
-**GodEye2004/GodEye2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter & Dart Developer  
+Cross-Platform Mobile Apps (iOS & Android) | AI & LLM Integration
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Flutter developer focused on building clean, scalable cross-platform mobile applications.
+I enjoy working close to product logic, performance optimization, and modern app architecture.
+Recently, I’ve been exploring AI and LLM integration inside mobile products.
+
+
+### Tech Stack
+- Flutter, Dart
+- REST APIs, Firebase
+- Python, FastAPI
+- Git, GitHub
+- Basic LLMOps & AI integration
+
+
+### Currently Focusing On
+- Advanced Flutter architecture
+- Backend integration with FastAPI
+- AI & LLM-powered features in mobile apps
+
+
+
