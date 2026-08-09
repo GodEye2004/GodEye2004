@@ -13,7 +13,6 @@ Recently, I’ve been exploring AI and LLM integration inside mobile products.
 - Flutter, Dart
 - REST APIs, Firebase
 - Python, FastAPI
-- Git, GitHub
 - Basic LLMOps & AI integration
 
 
