@@ -8,12 +8,12 @@ My main background is in **Flutter & Dart**, with experience building cross-plat
 
 I care about:
 
-* 🧩 Clean and scalable architecture
-* ⚡ Performance and reliability
-* 🔌 Backend & API integration
-* 🤖 AI / LLM-powered products
-* 🛠️ Developer experience and tooling
-* 🚀 Turning ideas into working products
+* Clean and scalable architecture
+* Performance and reliability
+* Backend & API integration
+* AI / LLM-powered products
+* Developer experience and tooling
+* Turning ideas into working products
 
 ## What I Work With
 
